@@ -13,6 +13,11 @@ function showTooltip(evt, text) {
       tooltip.style.left = '240px';
       tooltip.style.top = '220px';
     }
+    else if(screenWidth < 440 && screenWidth > 385){
+      tooltip.style.left = '240px';
+      tooltip.style.top = '520px';
+      tooltip.style.width = '120px';
+    }
     else{
       tooltip.style.left = '550px';
       tooltip.style.top = '240px';
