@@ -58,7 +58,7 @@ A comprehensive web-based application for visualizing rainfall data across India
 ## 📋 Project Structure
 
 ```text
-IMD/
+IMD-Rainfall-Data-Visualization/
 ├── index.html                # Main HTML file
 ├── Home.js                   # Main JavaScript file for weather and location
 ├── Home.css                  # Compiled CSS styles
@@ -88,8 +88,8 @@ IMD/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Simar0024/IMD.git
-   cd IMD
+   git clone https://github.com/Simar0024/IMD-Rainfall-Data-Visualization.git
+   cd IMD-Rainfall-Data-Visualization
    ```
 
 2. **No build process required**: Simply open `index.html` in your web browser
